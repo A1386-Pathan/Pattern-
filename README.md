@@ -1,2 +1,2 @@
 # Pattern-
-Basic Pattern printing
+“Number Pyramid Pattern Question”
